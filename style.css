@@ -35,6 +35,11 @@ body{
   animation: tilt-shaking 0.5s;
   animation-iteration-count: infinite;
 }
+#question-mark:hover{
+  animation: none;
+  height: 10%;
+  width: 10%;
+}
 .card{
   background-color: #C6E0FF;
   width: 22%;
