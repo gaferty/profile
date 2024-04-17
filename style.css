@@ -62,7 +62,9 @@ body{
   text-align: center;
   box-shadow: 10px 10px #253031;
 }
-
+.container p{
+  margin-bottom: 0.5;
+}
 .button{
   background-color: #ee6436;
   color: white;
